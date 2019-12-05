@@ -1,0 +1,7 @@
+rootProject.name = 'JAVA-XG62'
+include 'JW_201802104062_32'
+include 'JW32'
+include 'XG32'
+include 'XG201802104062'
+include 'XG32'
+
