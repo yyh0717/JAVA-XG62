@@ -11,7 +11,7 @@ import java.io.IOException;
 public class Filter2_Session implements Filter {
     public void destroy() {
     }
-
+//123
     public void doFilter(ServletRequest req, ServletResponse resp, FilterChain chain) throws ServletException, IOException {
         System.out.println("Filter 2 - LoginSessionFilter begin!");
         HttpServletRequest request = (HttpServletRequest)req;
